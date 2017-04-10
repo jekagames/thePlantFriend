@@ -84,7 +84,6 @@ var rawGrammar =
 	    "Helloka!",
 	    "Morning, sunshine!",
 	    "'Ello guv",
-	    "Help Me",
 	    "OHAI!"
 	],
 	"doSomethingNice":
