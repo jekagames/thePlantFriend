@@ -63,7 +63,8 @@ var rawGrammar =
 		"#greeting# If #awfulThing# has got you down, ask #lovedOne# to #doSomethingNice#",
 		"#greeting# being freshly watered feels just like getting #affectionateGesture.a#",
 		"#gratitude# Getting watered is just like going for #food#",
-		"#gratitude# I wish I could #doSomethingNice# but instead I #plantAction#"
+		"#gratitude# I wish I could #doSomethingNice# but instead I #plantAction#",
+		"Remember: #awfulThing# won\'t last forever!"
 	],
 	"greeting":
 	[
