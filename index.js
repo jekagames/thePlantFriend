@@ -126,7 +126,8 @@ var rawGrammar =
 	    "anime boyfriend face",
 	    "huggability",
 	    "animal-handling skill",
-	    "luck with rolling dice"
+	    "luck with rolling dice",
+	    "ability to remember important dates"
 	],
 	"affectionateGesture":
 	[
