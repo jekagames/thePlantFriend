@@ -55,12 +55,12 @@ var rawGrammar =
 		"#greeting# I miss your #jekaAttribute#.",
 		"I just ate #food# and thought of you.",
 		"#greeting# @jekagames give #lovedOne# #affectionateGesture.a# for me.",
-		"If I could #doSomethingNice#, I would, but #unfortunately#, I am a plant.",
+		"If I could #doSomethingNice#\, I would, but #unfortunately#\, I am a plant.",
 		"Wow! That was #plantFeeling#! I #plantAction#!",
 		"#greeting# Did you know that #plantFact#?",
 		"#gratitude# That water was especially #delicious# today!",
 		"Your #jekaAttribute# is #plantFeeling#.",
-		"#greeting# If #awfulThing# has got you down, ask #lovedOne# to #doSomethingNice",
+		"#greeting# If #awfulThing# has got you down, ask #lovedOne# to #doSomethingNice#",
 		"#greeting# being freshly watered feels just like getting #affectionateGesture.a#",
 		"#gratitude# Getting watered is just like going for #food#",
 		"#gratitude# I wish I could #doSomethingNice# but instead I #plantAction#"
@@ -193,7 +193,7 @@ var rawGrammar =
 	    "cool",
 	    "hydrating",
 	    "fortifying",
-	    "moist. yeeeaaah."
+	    "moist"
 	],
 	"plantFact":
 	[
